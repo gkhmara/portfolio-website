@@ -5,15 +5,37 @@
 }
 
 .projects {
-  border: 2px solid grey;
-  padding: 20px;
-  margin: 0 40% 0 25%;
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
 }
 
 .about {
-  border: 2px solid grey;
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 1px solid red;
+}
+
+/* .projects {
+  border: solid grey;
+  border-width: 2px;
+  margin: 0 40% 1% 25%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.about {
+  border: solid grey;
+  border-width: 2px;
   margin: 0 40% 0 25%;
   padding: 15px;
+  box-sizing: border-box;
+} */
+
+.textColor {
+  color: brown;
+  font-weight: bold;
 }
 
 li {
