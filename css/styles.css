@@ -5,11 +5,15 @@
 }
 
 .projects {
-  margin-left: 500px;
+  border: 2px solid grey;
+  padding: 20px;
+  margin: 0 40% 0 25%;
 }
 
 .about {
-  margin-left: 500px;
+  border: 2px solid grey;
+  margin: 0 40% 0 25%;
+  padding: 15px;
 }
 
 li {
