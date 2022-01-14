@@ -1,5 +1,6 @@
 .heading {
   font-family: Arial, Helvetica, sans-serif;
+  float: left;
 }
 
 .portrait {
@@ -7,6 +8,7 @@
   width: 50%;
   height: auto;
   display: block;
+  clear: both;
 }
 
 .projects {
