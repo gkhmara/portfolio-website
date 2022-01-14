@@ -1,6 +1,10 @@
-.heading {
+body {
   font-family: Arial, Helvetica, sans-serif;
   float: left;
+}
+
+.heading {
+  font-size: larger;
 }
 
 .portrait {
@@ -12,8 +16,8 @@
 }
 
 .projects {
-  border: 2px solid green;
-  padding: 10px;
+  border: 2px solid pink;
+  padding: 30px;
   display: block;
   margin: auto;
   margin-top: 20px;
@@ -23,8 +27,8 @@
 }
 
 .about {
-  border: 2px solid green;
-  padding: 10px;
+  border: 2px solid pink;
+  padding: 30px;
   display: block;
   margin: auto;
   margin-top: 20px;
@@ -60,6 +64,6 @@
 } */
 
 .textColor {
-  color: brown;
+  color: lightcoral;
   font-weight: bold;
 }
