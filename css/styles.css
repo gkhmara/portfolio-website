@@ -1,25 +1,12 @@
+.heading {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .portrait img {
   width: 20%;
   height: 20%;
   float: left;
 }
-
-/* .projects {
-  border: solid grey;
-  border-width: 2px;
-  width: 200px;
-  margin: 0 40% 1% 25%;
-  padding: 20px;
-  box-sizing: border-box;
-}
-
-.about {
-  border: solid grey;
-  border-width: 2px;
-  margin: 0 40% 0 25%;
-  padding: 15px;
-  box-sizing: border-box;
-} */
 
 .projects {
   width: 35%;
