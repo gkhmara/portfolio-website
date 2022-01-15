@@ -13,6 +13,9 @@
 
 This site lays out examples of sites I've worked on and gives a brief description myself and includes a photo
 
+## Link to site on GitHub Pages
+https://gkhmara.github.io/portfolio-website/
+
 ## Setup/Installation Requirements
 
 * Clone the repo from Gitup
