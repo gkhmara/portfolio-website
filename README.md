@@ -11,7 +11,7 @@
 
 ## Description
 
-This site lays out examples of sites I've worked on and gives a of brief description myself and includes a photo
+This site lays out examples of sites I've worked on and gives a brief description of myself and includes a photo
 
 ## Link to site on GitHub Pages
 https://gkhmara.github.io/portfolio-website/
